@@ -55,8 +55,8 @@ footer {
     color: white;
 }
 .produit img {
-    width: 220px;
-    height: 160px;
+    width: 260px;
+    height: 190px;
     object-fit: cover;
     border-radius: 15px;
 }
