@@ -54,3 +54,9 @@ footer {
     background-color: #e8a0b5;
     color: white;
 }
+.produit img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 15px;
+}
