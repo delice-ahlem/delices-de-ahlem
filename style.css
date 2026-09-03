@@ -63,7 +63,7 @@ footer {
 
 @media (max-width: 600px) {
     .produit img {
-        width: 150px;
-        height: 110px;
+        width: 180px;
+        height: 130px;
     }
 }
